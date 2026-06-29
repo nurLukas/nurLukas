@@ -60,21 +60,6 @@ Actualmente incluye:
 
 ---
 
-## 🎨 Andreu Tattoo
-
-Aplicación web Full Stack desarrollada para un estudio de tatuajes.
-
-Características:
-
-- Panel de administración
-- API REST
-- PostgreSQL
-- JWT
-- CRUD completo
-- Gestión de imágenes
-
----
-
 ## 🖥️ Homelab
 
 Infraestructura Linux personal donde experimento con:
