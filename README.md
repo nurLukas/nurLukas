@@ -84,11 +84,8 @@ Infraestructura Linux personal donde experimento con:
 ## 📈 Estadísticas
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nurLukas&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurLukas&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nurLukas&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nurLukas&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
