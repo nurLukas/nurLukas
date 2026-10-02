@@ -1,8 +1,8 @@
-<h1 align="center">¡Hola! 👋 Soy Lucas</h1>
+<h1 align="center">Lucas Andrés Griego</h1>
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy estudiante de primer curso de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
